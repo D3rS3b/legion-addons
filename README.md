@@ -36,7 +36,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Bagnon.zip)
 
-![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/Bagnon.jpg)<br/>
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/bagnon.jpg)<br/>
 
 ## **Bartender**
 
