@@ -138,13 +138,13 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Quartz.zip)
 
-![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/Quartz.jpg)<br/>
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/quartz.jpg)<br/>
 
 ## **Recount**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Recount.zip)
 
-![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/Recount.jpg)<br/>
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/recount.jpg)<br/>
 
 ## **RelicInspector**
 
@@ -168,7 +168,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/WeakAuras.zip)
 
-![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/WeakAuras.png)<br/>
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/weakauras.png)<br/>
 
 
 ## **More Addons here:**
