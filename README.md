@@ -10,11 +10,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 ### IMPORTANT: u may have to be logged in Github to download a AddOn!<br/>Don't download from the repo Addons Folder, instead download from here!
 
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/D3rS3b/legion-addons" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/D3rS3b/legion-addons" />  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/D3rS3b/legion-addons" /> <br/>
-<a href='https://github.com/NoM0Re' target="_blank">
+<a href='https://github.com/D3rS3b' target="_blank">
   <img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=flat-square&logo=GitHub&logoColor=white&labelColor=black&color=black'/>
 </a>
 
 <br/>
+
 ## **How to install WoW AddOns:**
 
    Download an Addon<br/>
