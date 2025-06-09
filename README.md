@@ -1,6 +1,6 @@
 # Most Useful WoW Addons for Patch 7.3.5 Legion
 
-**This is my AddonRepository for Legion. (Created by Kalandrath and README.md modified from NoM0Re [excellent work brother!])**<br/>I have written this Repository to download the newest/latest Addons for the Legion Patch.<br/>
+**This is my AddonRepository for Legion. (Created by D3rS3b and README.md modified from NoM0Re [excellent work brother!])**<br/>I have written this Repository to download the newest/latest Addons for the Legion Patch.<br/>
 Not every Addon is compatible with other Addons.<br/><br/>
 **The repository shut always be up-to-date and also will be updated every few Months**, if necessary.<br/><br/>
 <br/>You can be sure if the source is a Github Link, the Addon still has Support.<br/>
