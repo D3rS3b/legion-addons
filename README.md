@@ -54,7 +54,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/BigWigs.zip)
 
-![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/bigwigs.png)<br/>
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/BigWigs.jpg)<br/>
 
 ## **BigWigsClassic**
 
