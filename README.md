@@ -128,6 +128,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/ElkanoBuffbars.webp)<br/>
 
+## **Elvui**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/elvui.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/elvui.png)<br/>
+
 ## **Exorsus**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Exorsus.zip)
