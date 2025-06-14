@@ -26,11 +26,29 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 # **Addon List:**
 
+## **Advanced Interface Options**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/advancedinterface.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/advancedinterface.png)<br/>
+
+## **All The Thing**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/allthething.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/allthething.png)<br/>
+
 ## **Angry Keystones**
 
-[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/AngryKeystones-v0.13.0.zip)
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/AngryKeystones.zip)
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/Angrykeystone.png)<br/>
+
+## **Astral Keys**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/astralkeys.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/astralkeys.png)<br/>
 
 ## **Auctionator**
 
@@ -61,6 +79,18 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/BigWigsClassic.zip)
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/BigWigsClassic.jpg)<br/>
+
+## **Blizz Move**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/blizzmove.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/blizzmove.jpg)<br/>
+
+## **Capping**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/capping.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/capping.png)<br/>
 
 ## **DBM Deadly Boss Mods Warmane**
 
@@ -116,6 +146,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/Gatherer.webp)<br/>
 
+## **GladiusEX**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/gladiusex.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/gladiusex.png)<br/>
+
 ## **Grid2**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Grid2.zip)
@@ -127,6 +163,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/GTFO.zip)
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/GTFO.png)<br/>
+
+## **HealBot**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/healbot.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/healbot.jpg)<br/>
 
 ## **Hekili**
 
@@ -170,6 +212,24 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/MapCoords.png)<br/>
 
+## **MaxDPS**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/maxdps.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/maxdps.jpg)<br/>
+
+## **Method Raid Tools**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/methodtools.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/methodtools.png)<br/>
+
+## **Mythic Dungeon Tools**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/mythicdungeontools.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/mythicdungeontools.png)<br/>
+
 ## **Oilvl**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Oilvl.zip)
@@ -206,6 +266,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/Plater.png)<br/>
 
+## **Postal**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/postal.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/postal.jpg)<br/>
+
 ## **Prat3**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Prat3.zip)
@@ -224,6 +290,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/RareScanner.jpg)<br/>
 
+## **Rarity**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/rarity.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/rarity.jpg)<br/>
+
 ## **Recount**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/Recount.zip)
@@ -235,6 +307,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/RelicInspector.zip)
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/RelicInspector.png)<br/>
+
+## **Rematch**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/rematch.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/rematch.png)<br/>
 
 ## **Routes**
 
@@ -254,6 +332,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/SexyCooldown.png)<br/>
 
+## **Sexy Map**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/sexymap.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/sexymap.jpg)<br/>
+
 ## **ShadowedUnitFrames**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/ShadowedUnitFrames.zip)
@@ -272,6 +356,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/TellMeWhen.png)<br/>
 
+## **Threat Plates**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/threatplates.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/threatplates.jpg)<br/>
+
 ## **TitanPanel**
 
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/TitanPanel.zip)
@@ -289,6 +379,12 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 [Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/TriviaBot.zip)
 
 ![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/TriviaBot.webp)<br/>
+
+## **Vuhdo**
+
+[Download](https://github.com/D3rS3b/legion-addons/tree/main/src/Addons/vuhdo.zip)
+
+![Screenshot](https://github.com/D3rS3b/legion-addons/blob/main/src/Pictures/vuhdo.png)<br/>
 
 ## **WeakAuras**
 
